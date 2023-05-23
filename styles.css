@@ -1,0 +1,26 @@
+#gameboy {
+    width: 320px;
+    height: 460px;
+    background-color: #B8B8B8;
+    margin: 20px auto;
+    padding: 10px;
+  }
+  
+  #screen {
+    width: 160px;
+    height: 144px;
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    border: 2px solid black;
+  }
+  
+  #buttons {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  button {
+    width: 50px;
+    height: 40px;
+    margin: 5px;
+  }
